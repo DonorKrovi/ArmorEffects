@@ -5,6 +5,7 @@ import org.bukkit.Server;
 
 public enum Version implements Comparable<Version> {
 
+    v1_18_R2(17),
     v1_18_R1(16),
     v1_17_R1(15),
     v1_16_R3(14),
